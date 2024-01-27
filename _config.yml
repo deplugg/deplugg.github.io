@@ -111,6 +111,7 @@ social-links:
 
   - name: youtube
     url-pattern: youtube.com/__USERNAME__
+    icon-class: fab fa-2x fa-youtube
 
   - name: vimeo
     url-pattern: vimeo.com/__USERNAME__
