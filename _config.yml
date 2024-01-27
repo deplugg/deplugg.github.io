@@ -109,7 +109,7 @@ social-links:
   - name: steam
     url-pattern: steamcommunity.com/id/__USERNAME__
 
-  - name: youtube
+  - name: Youtube
     url-pattern: youtube.com/__USERNAME__
     icon-class: fab fa-2x fa-youtube
 
