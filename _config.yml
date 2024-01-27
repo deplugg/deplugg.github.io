@@ -13,16 +13,16 @@ favicon: 'favicon.ico'
 # Online profiles
 #dribbble: 'mydribbble'
 facebook: 'myfacebook'
-twitter: 'deplugg_'
+Twitter: 'deplugg_'
 #linkedin: 'mylinkedin'
-instagram: 'deplugg_'
+Instagram: 'deplugg_'
 #pinterest: 'mypinterest'
-youtube: '@deplugg208'
+Youtube: '@deplugg208'
 #github-user: 'mygithub'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
-soundcloud: 'deplugg'
+Soundcloud: 'deplugg'
 #lastfm: ''
 #stack-overflow: ''
 #reddit: ''
@@ -35,7 +35,7 @@ soundcloud: 'deplugg'
 email: 'lilplugged@gmail.com'
 #messenger: 'myfbchat'
 
-social-links-order: [youtube, soundcloud, instagram, twitter, email]
+social-links-order: [Youtube, Soundcloud, Instagram, Twitter, email]
 
 # Yaml manifest of supported social links
 # Requirements:
