@@ -12,6 +12,7 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
+Tiktok: '@depluggbaby'
 facebook: 'myfacebook'
 Twitter: 'deplugg_'
 #linkedin: 'mylinkedin'
@@ -35,7 +36,7 @@ Soundcloud: 'deplugg'
 Email: 'lilplugged@gmail.com'
 #messenger: 'myfbchat'
 
-social-links-order: [Youtube, Soundcloud, Instagram, Twitter, Email]
+social-links-order: [Youtube, Soundcloud, Instagram, Twitter, Tiktok, Email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -57,6 +58,10 @@ social-links-order: [Youtube, Soundcloud, Instagram, Twitter, Email]
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
+ - name: Tiktok
+    url-pattern: tiktok.com/__USERNAME__
+    icon-class: fab fa-2x fa-tiktok
+    
   - name: facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
