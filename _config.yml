@@ -61,7 +61,7 @@ social-links:
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
-  - name: twitter
+  - name: Twitter
     url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
@@ -76,7 +76,7 @@ social-links:
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: instagram
+  - name: Instagram
     url-pattern: instagram.com/__USERNAME__
 
   - name: flickr
@@ -115,7 +115,7 @@ social-links:
   - name: vimeo
     url-pattern: vimeo.com/__USERNAME__
 
-  - name: soundcloud
+  - name: Soundcloud
     url-pattern: soundcloud.com/__USERNAME__
 
   - name: lastfm
