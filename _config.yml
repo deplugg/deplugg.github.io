@@ -32,10 +32,10 @@ Soundcloud: 'deplugg'
 #weibo: 'myweibo'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
-email: 'lilplugged@gmail.com'
+Email: 'lilplugged@gmail.com'
 #messenger: 'myfbchat'
 
-social-links-order: [Youtube, Soundcloud, Instagram, Twitter, email]
+social-links-order: [Youtube, Soundcloud, Instagram, Twitter, Email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -154,7 +154,7 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-blog
 
-  - name: email
+  - name: Email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
-    icon-class: far fa-2x fa-envelope-open
+    icon-class: far fa-2x fa-envelope
