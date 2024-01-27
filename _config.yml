@@ -63,6 +63,7 @@ social-links:
 
   - name: Twitter
     url-pattern: twitter.com/__USERNAME__
+    icon-class: fab fa-2x fa-twitter
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
@@ -78,6 +79,7 @@ social-links:
 
   - name: Instagram
     url-pattern: instagram.com/__USERNAME__
+    icon-class: fab fa-2x fa-instagram
 
   - name: flickr
     url-pattern: flickr.com/__USERNAME__
