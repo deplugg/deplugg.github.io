@@ -8,7 +8,7 @@ description: ''
 # Images
 avatar: 'profile.png'
 background: 'background.jpg'
-favicon: ''
+#favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
