@@ -58,7 +58,7 @@ social-links-order: [Youtube, Soundcloud, Instagram, Twitter, Tiktok, Email]
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
- - name: Tiktok
+  - name: Tiktok
     url-pattern: tiktok.com/__USERNAME__
     icon-class: fab fa-2x fa-tiktok
     
