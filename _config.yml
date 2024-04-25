@@ -35,8 +35,8 @@ Soundcloud: 'deplugg'
 #blog_url: 'myblog.blog.com'
 Email: 'lilplugged@gmail.com'
 #messenger: 'myfbchat'
-
-social-links-order: [Youtube, Soundcloud, Instagram, Twitter, Tiktok, Email]
+Spotify: 'intl-es/artist/47r7h8vZGLdwo75oxfBA5i?si=t3EEch1YRuO08NU2afHIXg'
+social-links-order: [Spotify, Youtube, Soundcloud, Instagram, Twitter, Tiktok, Email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -163,3 +163,7 @@ social-links:
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope
+
+  - name: Spotify
+    url-pattern: 'open.spotify.com/intl-es/artist/47r7h8vZGLdwo75oxfBA5i?si=t3EEch1YRuO08NU2afHIXg'
+    icon-class: fab fa-2x fa-spotify
